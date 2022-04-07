@@ -1,0 +1,1 @@
+# From: https://gutenberg.osdn.jp/font/en.html#MahjongTile
