@@ -1,1 +1,1 @@
-# From: https://gutenberg.osdn.jp/font/en.html#MahjongTile
+Extrated from: [Gutenberg Labo](https://gutenberg.osdn.jp/font/en.html#MahjongTile-Clr)
